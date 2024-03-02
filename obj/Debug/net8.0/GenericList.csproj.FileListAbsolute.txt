@@ -1,0 +1,14 @@
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\GenericList\bin\Debug\net8.0\GenericList.exe
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\GenericList\bin\Debug\net8.0\GenericList.deps.json
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\GenericList\bin\Debug\net8.0\GenericList.runtimeconfig.json
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\GenericList\bin\Debug\net8.0\GenericList.dll
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\GenericList\bin\Debug\net8.0\GenericList.pdb
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\GenericList\obj\Debug\net8.0\GenericList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\GenericList\obj\Debug\net8.0\GenericList.AssemblyInfoInputs.cache
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\GenericList\obj\Debug\net8.0\GenericList.AssemblyInfo.cs
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\GenericList\obj\Debug\net8.0\GenericList.csproj.CoreCompileInputs.cache
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\GenericList\obj\Debug\net8.0\GenericList.dll
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\GenericList\obj\Debug\net8.0\refint\GenericList.dll
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\GenericList\obj\Debug\net8.0\GenericList.pdb
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\GenericList\obj\Debug\net8.0\GenericList.genruntimeconfig.cache
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\GenericList\obj\Debug\net8.0\ref\GenericList.dll
